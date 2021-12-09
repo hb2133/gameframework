@@ -1,0 +1,13 @@
+﻿  Game.cpp
+C:\Users\82103\Desktop\gf-123123\GameFramework\Vector2D.h(13,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82103\Desktop\gf-123123\GameFramework\Game.cpp(97,18): warning C4305: 'return': 'int'에서 'bool'(으)로 잘립니다.
+C:\Users\82103\Desktop\gf-123123\GameFramework\Game.cpp(121,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82103\Desktop\gf-123123\GameFramework\Game.cpp(129,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82103\Desktop\gf-123123\GameFramework\Game.cpp(133,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82103\Desktop\gf-123123\GameFramework\Game.cpp(137,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82103\Desktop\gf-123123\GameFramework\Game.cpp(151,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82103\Desktop\gf-123123\GameFramework\Game.cpp(155,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82103\Desktop\gf-123123\GameFramework\Game.cpp(159,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82103\Desktop\gf-123123\GameFramework\Game.cpp(163,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82103\Desktop\gf-123123\GameFramework\Game.cpp(167,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  GameFramework.vcxproj -> C:\Users\82103\Desktop\gf-123123\GameFramework\Debug\GameFramework.exe
